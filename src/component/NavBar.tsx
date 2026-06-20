@@ -17,11 +17,11 @@ function NavBar() {
             <i className="ri-instagram-line"></i>
           </li>
         </a>
-        {/* <a href="http://bit.ly/4v7Ukpr">
+        <a href="http://bit.ly/4v7Ukpr">
           <li>
             <i className="ri-linkedin-fill"></i>
           </li>
-        </a> */}
+        </a>
 
         <a href="https://sammy2007bright@gmail.com">
           <li>
