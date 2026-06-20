@@ -2,7 +2,7 @@ import {Home, NavBar} from "./component";
 
 function App() {
   return (
-    <>
+    <div className="p-10 md:p-0">
       <section className="justify-center text-white items-center md:py-10 text-center">
         <video
           autoPlay
@@ -43,7 +43,7 @@ function App() {
           </p>
         </div>
       </section>
-    </>
+    </div>
   );
 }
 
